@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#1f77b4"  # You can choose a primary color of your liking
+backgroundColor="#0e1117"  # Change the background color if needed
+secondaryBackgroundColor="#262730"
+textColor="#ffffff"
+font="sans serif"  # You can customize the font as well
